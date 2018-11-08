@@ -14,6 +14,7 @@ namespace WinService
         /// </summary>
         static void Main()
         {
+            //service started
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
